@@ -5,7 +5,7 @@ effects to a target player - slay with an explosion, mute, bury, glow, pimp-slap
 restrict to melee weapons, and more.
 
 - **Plugin file:** `dod_eviladmin2.sma`
-- **Author:** g-man
+- **Author:** g-man   (Had to decompile and rewrite as I did not original other)
 - **Version:** 1.0
 
 ## Requirements
